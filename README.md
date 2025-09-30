@@ -1,23 +1,23 @@
-## Hello! I'am Luis Fernando Freitas, Developer in Python, Css, JavaScript and Html
+## Hello! I'am Agnes de Queiroz, Developer in Python, Css, JavaScript and Html
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Freitas-2009">
+  <a href="https://github.com/agnsqueiroz">
   <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=Freitas-2009&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas-2009&layout=compact&langs_count_private=true&theme=dracula"/>
 </div>
 <p align="center">
-  <a href="https://github.com/Freitas-2009/github-profile-trophy">
+  <a href="https://github.com/agnsqueiroz/github-profile-trophy">
     <img src="https://hacked-github-stat-trophies.vercel.app/?username=Freitas-2009&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy">
   </a>
 </p>
     
 <div align="center">
-  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Agnes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Agnes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Agnes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Agnes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
    ##
